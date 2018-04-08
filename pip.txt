@@ -1,0 +1,28 @@
+pip2 install Django==1.11.9
+	Installed Django==1.11.9
+
+Pip2 list
+	Django (1.11.9)
+	pip (9.0.1)
+	pytz (2017.3)
+	setuptools (36.5.0)
+	wheel (0.30.0)
+
+pip2 install Django==1.11.9
+	Requirement already satisfied
+
+Pip2 freeze
+	Django==1.11.9
+	pytz==2017.3
+
+pip2 freeze > requirements.txt
+	created requirements.txt
+
+pip2 uninstall Django
+	Successfully uninstalled Django-1.11.9
+
+pip2 show Django
+	Nothing happened
+
+pip1 search Flask
+	Showed all the Flask related
